@@ -1,6 +1,7 @@
 {
   "name": "medicloud",
   "version": "0.1.0",
+  "description": "A modern healthcare patient management system built with Next.js 14, TypeScript, Tailwind CSS, and Appwrite.",
   "private": true,
   "scripts": {
     "dev": "next dev",
